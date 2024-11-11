@@ -1,0 +1,29 @@
+{
+  "name": "@evas-js/vue-router",
+  "version": "1.0.0",
+  "description": "Вспомогательная обёртка для конфигурирования Vue-Router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evas-js/vue-router.git"
+  },
+  "keywords": [
+    "vue",
+    "router",
+    "configuration",
+    "config",
+    "routes",
+    "helper",
+    "builder",
+    "crud"
+  ],
+  "author": "Egor Vasyakin <egor@evas-php.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/evas-js/vue-router/issues"
+  },
+  "homepage": "https://github.com/evas-js/vue-router#readme"
+}
